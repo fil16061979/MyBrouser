@@ -1,0 +1,10 @@
+C:\Users\HPUSER\source\repos\MyBrouzer1\bin\Debug\MyBrouzer1.exe.config
+C:\Users\HPUSER\source\repos\MyBrouzer1\bin\Debug\MyBrouzer1.exe
+C:\Users\HPUSER\source\repos\MyBrouzer1\bin\Debug\MyBrouzer1.pdb
+C:\Users\HPUSER\source\repos\MyBrouzer1\obj\Debug\MyBrouzer1.csprojAssemblyReference.cache
+C:\Users\HPUSER\source\repos\MyBrouzer1\obj\Debug\MyBrouzer1.Properties.Resources.resources
+C:\Users\HPUSER\source\repos\MyBrouzer1\obj\Debug\MyBrouzer1.csproj.GenerateResource.cache
+C:\Users\HPUSER\source\repos\MyBrouzer1\obj\Debug\MyBrouzer1.csproj.CoreCompileInputs.cache
+C:\Users\HPUSER\source\repos\MyBrouzer1\obj\Debug\MyBrouzer1.exe
+C:\Users\HPUSER\source\repos\MyBrouzer1\obj\Debug\MyBrouzer1.pdb
+C:\Users\HPUSER\source\repos\MyBrouzer1\obj\Debug\MyBrouzer1.addrBox.resources
